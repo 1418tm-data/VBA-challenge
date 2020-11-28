@@ -1,2 +1,2 @@
 # VBA-challenge
-Week 2 VBA challenge homework
+This is the solution for Week 2 VBA challenge homework
